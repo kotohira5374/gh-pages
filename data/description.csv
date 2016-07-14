@@ -1,5 +1,5 @@
 label,sublabel,description,styles,bgcolor
-不燃ごみ,,,img/moyasanai02.svg,#733b96
-資源ごみ,,,img/shigen02.svg,#77ae1f
-可燃ごみ,,,img/moyasu02.svg,#ea3b13
-プラのみ,,,img/bin02.svg,#2dc7aa
+不燃ごみ,燃えないゴミ,,img/moyasanai02.svg,#733b96
+資源ごみ,資源となるゴミ,,img/shigen02.svg,#77ae1f
+可燃ごみ,燃えるゴミ,,img/moyasu02.svg,#ea3b13
+プラのみ,プラスチック,,img/bin02.svg,#2dc7aa
